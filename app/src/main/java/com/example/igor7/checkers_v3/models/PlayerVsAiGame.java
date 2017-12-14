@@ -1,4 +1,6 @@
-package com.example.igor7.checkers_v3;
+package com.example.igor7.checkers_v3.models;
+
+import com.example.igor7.checkers_v3.common.Point;
 
 public class PlayerVsAiGame extends Game {
     @Override
@@ -8,6 +10,11 @@ public class PlayerVsAiGame extends Game {
 
     @Override
     public void move(Point to) {
+
+    }
+
+    @Override
+    public void undo() {
 
     }
 }

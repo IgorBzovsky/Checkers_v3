@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Checkers_v3</string>
+    <string name="player_label">Player</string>
+    <string name="computer_label">Computer</string>
+    <string name="game_finished">Game finished</string>
+    <string name="new_game">New game</string>
 </resources>

@@ -1,4 +1,4 @@
-package com.example.igor7.checkers_v3;
+package com.example.igor7.checkers_v3.common;
 
 public class Point {
     private int row;
